@@ -24,3 +24,4 @@ jobs:
           # for more options
           release-type: node
           path: packages/plugin
+          config-file: release-please-config.json
