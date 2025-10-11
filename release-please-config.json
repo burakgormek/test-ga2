@@ -8,6 +8,9 @@
     },
     "packages/swc": {
       "release-type": "node"
+    },
+    "packages/webpack": {
+      "release-type": "node"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
