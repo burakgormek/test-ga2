@@ -2,16 +2,18 @@
   "include-component-in-tag": true,
   "tag-separator": "@",
   "separate-pull-requests": true,
-  "bump-minor-pre-major": true,
   "packages": {
     "packages/plugin": {
-      "release-type": "node"
+      "release-type": "node",
+      "bump-minor-pre-major": true,
     },
     "packages/swc": {
-      "release-type": "node"
+      "release-type": "node",
+      "bump-minor-pre-major": true,
     },
     "packages/webpack": {
-      "release-type": "node"
+      "release-type": "node",
+      "bump-minor-pre-major": true,
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
