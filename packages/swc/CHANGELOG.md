@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.1.0...test-swc-123123@v1.2.0) (2025-10-12)
+
+
+### Features
+
+* **swc:** add2 ([e60dd91](https://github.com/burakgormek/test-ga2/commit/e60dd916e38112b8837f0409c85905596666eb9b))
+
 ## [1.1.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.0.0...test-swc-123123@v1.1.0) (2025-10-12)
 
 
