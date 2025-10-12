@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.5.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.4.0...test-swc-123123@v1.5.0) (2025-10-12)
+
+
+### Features
+
+* **swc:** add test.html ([063a522](https://github.com/burakgormek/test-ga2/commit/063a522f60b68d19b6333dc1b351f46e8304a115))
+* **swc:** add test2 ([ae60c40](https://github.com/burakgormek/test-ga2/commit/ae60c403016af76da63aef7bce515e56da52b5af))
+* **swc:** add test3 ([10abd76](https://github.com/burakgormek/test-ga2/commit/10abd7697f5eb4c381d180465c257b0242f43385))
+* **swc:** add2 ([e60dd91](https://github.com/burakgormek/test-ga2/commit/e60dd916e38112b8837f0409c85905596666eb9b))
+* **swc:** und ([6c70ce4](https://github.com/burakgormek/test-ga2/commit/6c70ce4c98d9197ac03948d145b58a6fe1a36e14))
+* **swc:** und ([cbe54c3](https://github.com/burakgormek/test-ga2/commit/cbe54c361a2809333e875a9e9526e5b3d9c1cddb))
+* **swc:** update ([b4c7e4b](https://github.com/burakgormek/test-ga2/commit/b4c7e4b4a9f19656a53a730c2d16c4843938a8f3))
+
+
+### Bug Fixes
+
+* **swc:** up html ([c261eca](https://github.com/burakgormek/test-ga2/commit/c261eca4b0ed74b9c7a9452138533ffab1a5574b))
+
 ## [1.4.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.3.0...test-swc-123123@v1.4.0) (2025-10-12)
 
 
