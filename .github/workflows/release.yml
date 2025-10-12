@@ -28,6 +28,7 @@ jobs:
     name: Prepare Matrix
     needs: release-please
     runs-on: ubuntu-latest
+    if: needs.release-please.outputs.releases_created == 'true'
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
