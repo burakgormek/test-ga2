@@ -23,6 +23,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
+      - name: Debug outputs
+        run: |
+          echo "releases_created = ${{ steps.release.outputs.releases_created }}"
+          echo "paths_released = ${{ steps.release.outputs.paths_released }}"
 
   prepare-matrix:
     name: Prepare Matrix
