@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.3.0...test-swc-123123@v1.4.0) (2025-10-12)
+
+
+### Features
+
+* **swc:** und ([6c70ce4](https://github.com/burakgormek/test-ga2/commit/6c70ce4c98d9197ac03948d145b58a6fe1a36e14))
+
 ## [1.3.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.2.0...test-swc-123123@v1.3.0) (2025-10-12)
 
 
