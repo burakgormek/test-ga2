@@ -1,4 +1,7 @@
 {
-  "name": "swc",
-  "version": "1.0.0"
+  "name": "test-swc-123123",
+  "version": "1.0.0",
+  "scripts": {
+    "build": ""
+  }
 }
