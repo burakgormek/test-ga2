@@ -77,4 +77,4 @@ jobs:
         if: steps.check_release.outputs.package_released == 'true'
         run: |
           cd packages/${{ matrix.package }}
-          bun publish --access public
+          npm publish --access public
