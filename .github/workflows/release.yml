@@ -71,7 +71,7 @@ jobs:
         run: bun install --frozen-lockfile
       - name: Build package
         if: steps.check_release.outputs.package_released == 'true'
-        run: bun run build --filter ./packages/${{ matrix.package }}
+        run: bun --filter ./packages/${{ matrix.package }} build
       - name: Publish package to npm
         if: steps.check_release.outputs.package_released == 'true'
         run: |
