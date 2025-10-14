@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.9.0...test-swc-123123@v1.10.0) (2025-10-14)
+
+
+### Features
+
+* **swc:** add rest ([85255e5](https://github.com/burakgormek/test-ga2/commit/85255e5d6cc25252355e5774866ad038cca65efe))
+
 ## [1.9.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.8.0...test-swc-123123@v1.9.0) (2025-10-14)
 
 
