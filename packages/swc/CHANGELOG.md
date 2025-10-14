@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.8.0...test-swc-123123@v1.9.0) (2025-10-14)
+
+
+### Features
+
+* **swc:** pdty ([1fb30e4](https://github.com/burakgormek/test-ga2/commit/1fb30e483e3905115a8c817ee834b1780883dfc3))
+
 ## [1.8.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.7.0...test-swc-123123@v1.8.0) (2025-10-14)
 
 
