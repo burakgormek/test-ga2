@@ -2,6 +2,6 @@
   "name": "test-swc-123123",
   "version": "1.6.0",
   "scripts": {
-    "build": ""
+    "build": "true"
   }
 }
