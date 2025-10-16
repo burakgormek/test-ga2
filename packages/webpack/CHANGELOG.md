@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/burakgormek/test-ga2/compare/webpack@v0.3.0...webpack@v0.4.0) (2025-10-16)
+
+
+### Features
+
+* **webpack:** update test ([9438a22](https://github.com/burakgormek/test-ga2/commit/9438a2276e086f83d9b403847cf2d6b10f706723))
+
 ## [0.3.0](https://github.com/burakgormek/test-ga2/compare/webpack@v0.2.0...webpack@v0.3.0) (2025-10-16)
 
 
