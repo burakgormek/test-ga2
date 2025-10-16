@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.10.0...test-swc-123123@v0.4.0) (2025-10-16)
+
+
+### Miscellaneous Chores
+
+* **test-swc-123123:** Synchronize next-plugin versions
+
 ## [1.10.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.9.0...test-swc-123123@v1.10.0) (2025-10-14)
 
 
