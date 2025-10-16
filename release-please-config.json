@@ -24,11 +24,10 @@
     }
   },
   "plugins": [
-    {
-      "type": "linked-versions",
-      "groupName": "next-plugin",
-      "components": ["test-swc-123123", "webpack"]
-    }
+     {
+          "type": "node-workspace",
+          "updatePeerDependencies": true
+      }
   ],
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
