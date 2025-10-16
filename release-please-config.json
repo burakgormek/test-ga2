@@ -9,7 +9,8 @@
     },
     "packages/swc": {
       "release-type": "node",
-      "bump-minor-pre-major": true
+      "bump-minor-pre-major": true,
+      "extra-files": ["packages/webpack/package.json"]
     },
     "packages/webpack": {
       "release-type": "node",
