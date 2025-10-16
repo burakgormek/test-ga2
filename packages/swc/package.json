@@ -3,5 +3,8 @@
   "version": "1.10.0",
   "scripts": {
     "build": "true"
+  },
+  "dependencies": {
+    "webpack": "workspace:*"
   }
 }
