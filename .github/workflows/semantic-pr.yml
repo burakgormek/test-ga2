@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - id: detect-scopes
         run: |
-          scopes=$(ls packages | tr '\n' '\n')
+          package_scopes=$(ls packages | tr '\n' '\n')
           {
             echo "scopes<<EOF"
             echo "$package_scopes"
