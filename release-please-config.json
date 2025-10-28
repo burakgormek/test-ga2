@@ -28,7 +28,7 @@
           "path": "/bun.lock",
           "jsonpath": "$.workspaces['packages/webpack-plugin'].version"
         }
-      ],
+      ]
     }
   },
   "plugins": [
