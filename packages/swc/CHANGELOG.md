@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.10.1](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.10.0...test-swc-123123@v1.10.1) (2025-10-28)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * webpack-plugin bumped to 1.2.0
+
 ## [1.10.0](https://github.com/burakgormek/test-ga2/compare/test-swc-123123@v1.9.0...test-swc-123123@v1.10.0) (2025-10-14)
 
 
