@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/burakgormek/test-ga2/compare/webpack-plugin@v1.0.0...webpack-plugin@v1.1.0) (2025-10-28)
+
+
+### Features
+
+* **webpack-plugin:** test 6 ([16f3313](https://github.com/burakgormek/test-ga2/commit/16f3313eb8f6fd46166ff471408bcba3f43d468d))
+
 ## 1.0.0 (2025-10-28)
 
 
