@@ -20,7 +20,8 @@
     },
     "packages/webpack-plugin": {
       "release-type": "node",
-      "bump-minor-pre-major": true
+      "bump-minor-pre-major": true,
+      "component": "webpack-plugin"
     }
   },
   "plugins": [
