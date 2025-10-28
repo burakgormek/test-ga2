@@ -2,6 +2,7 @@
   "include-component-in-tag": true,
   "tag-separator": "@",
   "separate-pull-requests": true,
+  "changelog-type": "github",
   "packages": {
     "packages/plugin": {
       "release-type": "node",
