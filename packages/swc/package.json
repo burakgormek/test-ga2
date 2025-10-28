@@ -5,6 +5,6 @@
     "build": "true"
   },
   "dependencies": {
-    "webpack": "workspace:*"
+    "webpack-plugin": "workspace:*"
   }
 }
