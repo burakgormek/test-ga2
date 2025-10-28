@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-10-28)
+
+
+### Bug Fixes
+
+* **webpack-plugin:** test fix ([160f3db](https://github.com/burakgormek/test-ga2/commit/160f3db1badc867712fc70d61adb429e62fe9852))
+
 ## [0.5.0](https://github.com/burakgormek/test-ga2/compare/webpack-test@v0.4.0...webpack-test@v0.5.0) (2025-10-24)
 
 
