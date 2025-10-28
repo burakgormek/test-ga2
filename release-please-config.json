@@ -25,8 +25,8 @@
       "extra-files": [
         {
           "type": "json",
-          "path": "bun.lock",
-          "jsonpath": "$['workspaces']['packages/webpack-plugin']['version']"
+          "path": "../../bun.lock",
+          "jsonpath": "$.workspaces['packages/webpack-plugin'].version"
         }
       ]
     }
