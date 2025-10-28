@@ -21,7 +21,14 @@
     "packages/webpack-plugin": {
       "release-type": "node",
       "bump-minor-pre-major": true,
-      "component": "webpack-plugin"
+      "component": "webpack-plugin",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": "bun.lock",
+          "jsonpath": "$['workspaces']['packages/webpack-plugin']['version']"
+        }
+      ]
     }
   },
   "plugins": [
