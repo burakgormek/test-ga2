@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.2.0](https://github.com/burakgormek/test-ga2/compare/webpack-plugin@v1.1.0...webpack-plugin@v1.2.0) (2025-10-28)
+
+
+### Features
+
+* **webpack-plugin:** add test7 ([cbbb0fd](https://github.com/burakgormek/test-ga2/commit/cbbb0fd902b2239b475b880fc347f6cf44fcf19e))
+* **webpack-plugin:** test 10 ([9557ffa](https://github.com/burakgormek/test-ga2/commit/9557ffa27a8241c46092122a7166fc02e19e3465))
+
+
+### Bug Fixes
+
+* **webpack-plugin:** test 11 ([9b6f84a](https://github.com/burakgormek/test-ga2/commit/9b6f84ae40213d52fd90fd893fc70c8dfd1feba9))
+* **webpack-plugin:** test 13 ([7f8a1a3](https://github.com/burakgormek/test-ga2/commit/7f8a1a32a616be523e6e038d20ee9c1967908937))
+* **webpack-plugin:** test 8 ([55ccbca](https://github.com/burakgormek/test-ga2/commit/55ccbca10c13f287bca176ff3e3969517f2cd5fd))
+* **webpack-plugin:** test 9 ([7d6303b](https://github.com/burakgormek/test-ga2/commit/7d6303b843475b0ee21c1a5ff5e29fc3b1e3604e))
+* **webpack-plugin:** ups ([b1802e0](https://github.com/burakgormek/test-ga2/commit/b1802e0697da33e1fb12deffb58ae1027b1b19f4))
+
+
+### Reverts
+
+* fix(webpack-plugin): test 13 ([eff2504](https://github.com/burakgormek/test-ga2/commit/eff25046cf1b4440b0bdea94bc8ce9100afede03))
+
 ## 1.1.0 (2025-10-28)
 
 **Full Changelog**: https://github.com/burakgormek/test-ga2/compare/webpack-plugin@v1.0.0...webpack-plugin@v1.1.0
